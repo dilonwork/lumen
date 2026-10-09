@@ -14,6 +14,14 @@ browse and search them in a React gallery.
    gallery          for the browser   web console
 ```
 
+## Screenshots
+
+![lumen overview — upload zone and gallery](docs/images/01-overview.png)
+
+![search filters the gallery by filename](docs/images/02-search.png)
+
+![click a thumbnail to view the full image](docs/images/03-lightbox.png)
+
 ## Quickstart
 
 ```bash
